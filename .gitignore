@@ -1,0 +1,17 @@
+.idea
+.vscode
+.DS_Store
+.Trashes
+.env
+.venv
+bin/
+lib/
+__pycache__/
+env/
+nohup.out
+data/
+gunicorn.*
+backend.log
+third_party_api.log
+logs
+llmenv
